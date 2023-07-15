@@ -3,7 +3,7 @@ text-align: center;
 color: rgb(245, 240, 240);
 }
 
-    #b1{
+    .b1{
         background-color: rgba(255, 249, 249, 0.781);
         width: 100%;
     }
@@ -12,9 +12,6 @@ color: rgb(245, 240, 240);
         background-color: rgba(180, 16, 16, 0.952);
        
     }
-    #a1{
-        width: 100%;
-    }
-   \
+    
 
   
